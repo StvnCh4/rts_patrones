@@ -1,0 +1,24 @@
+﻿# Unity generated folders to exclude
+Logs/
+.idea/
+obj/
+Temp/
+Library/
+
+# Visual Studio / Rider generated files
+*.sln
+*.csproj
+
+# Common Unity exclusions
+Build/
+Builds/
+UserSettings/
+.vscode/
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# OS-specific
+.DS_Store
+Thumbs.db
